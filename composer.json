@@ -8,8 +8,8 @@
             "Jicodex\\NextPagination\\": "src/"
         }
     },
-}
-}
+
+
     "extra": {
         "laravel": {
             "providers": [
