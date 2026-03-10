@@ -1,0 +1,16 @@
+{
+    "name": "jicodex/next-pagination",
+    "description": "Simple Laravel Pagination Package",
+    "autoload": {
+        "psr-4": {
+            "Jicodex\\NextPagination\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Jicodex\\NextPagination\\PaginationNextProvider"
+            ]
+        }
+    }
+}
