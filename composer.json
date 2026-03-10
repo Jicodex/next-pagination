@@ -8,10 +8,7 @@
             "Jicodex\\NextPagination\\": "src/"
         }
     },
-    {
-    "require": {
-        "vendor/package": "1.0.0",
-    }
+    
 }
     "extra": {
         "laravel": {
